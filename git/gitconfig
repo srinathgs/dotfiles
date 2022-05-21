@@ -127,3 +127,6 @@
   enabled = true
 [include]
   path = .gitconfig.user
+[user]
+	email = g.s.srinath89@gmail.com
+	name = Srinath GS
