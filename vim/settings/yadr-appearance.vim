@@ -27,5 +27,5 @@ else
   end
 endif
 
-colorscheme gruvbox
+colorscheme embark
 set background=dark
